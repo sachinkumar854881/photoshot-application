@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/photoshot-application/static/css/main.a45a807a.css",
+    "main.js": "/photoshot-application/static/js/main.d0602faa.js",
+    "index.html": "/photoshot-application/index.html",
+    "main.a45a807a.css.map": "/photoshot-application/static/css/main.a45a807a.css.map",
+    "main.d0602faa.js.map": "/photoshot-application/static/js/main.d0602faa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a45a807a.css",
+    "static/js/main.d0602faa.js"
+  ]
+}
